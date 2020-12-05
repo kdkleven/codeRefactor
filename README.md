@@ -1,2 +1,2 @@
-# uofm-bootcamp-homework-01-html-git-css
+# uofm-bootcamp-homework-01
 Homework assignment 01
