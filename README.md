@@ -22,13 +22,13 @@ The purpose of this assignment was to refactor the existing website for a market
 ### Technical Acceptance Criteria
 - [x] Application's links all function correctly
 - [x] Application's CSS selectors and properties are consolidated and organized follow semantic structure
-- [] Application's CSS file is properly commented
+[] Application's CSS file is properly commented
 
 ### Deployment
-- [] Application deployed at live URL
-- [] Application loads with no errors
-- [] Application GitHub URL submitted
-- [] GitHub repository that contains application code
+[] Application deployed at live URL
+[] Application loads with no errors
+[] Application GitHub URL submitted
+[] GitHub repository that contains application code
 
 ### Application Quality
 - [x] Repository has a unique name.
