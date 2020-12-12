@@ -9,13 +9,24 @@ Assignment: 1
 Author: Kyle Kleven   
 Course: UofM Coding Bootcamp    
 
-## What's inside:
-The purpose of this assignment was to refactor the existing website for a marketing agency, named Horiseon, by completing the following:  
-- [x] Implement semantic HTML elements
-- [x] Restructure elements to be arranged logically, independent of styling and positioning
-- [x] Add alt tags to all image elements for accessibility
-- [x] Arrange heading attributes to be in sequential order
-- [x] Create a concise, descriptive title
+### User Story
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+### Acceptance Criteria
+
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
 
 ## Grading Requirements 
 
@@ -26,7 +37,7 @@ The purpose of this assignment was to refactor the existing website for a market
 
 ### Deployment
 - [x] Application deployed at live URL
-- [] Application loads with no errors
+- [x] Application loads with no errors
 - [] Application GitHub URL submitted
 - [] GitHub repository that contains application code
 
@@ -36,3 +47,7 @@ The purpose of this assignment was to refactor the existing website for a market
 - [] Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 - [] Repository contains multiple descriptive commit messages.
 - [] Repository contains quality README file with description, screenshot, and link to deployed application.
+
+## The Result
+[Horiseon: Social Solution Services](https://kdkleven.github.io/uofm-bootcamp-homework-01/index.html)
+
