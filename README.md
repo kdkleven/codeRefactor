@@ -3,11 +3,11 @@
 ## The Repository
 This repository ("uofm-bootcamp-homework-01") is my first homework assignment: Code Refactor. This source code is available to everyone under the standard MIT license.
 
-## The Assignment
-Title: "Code Refactor"  
+## Assignment Details
+Title: Code Refactor  
 Assignment: 1  
-Author: "Kyle Kleven"  
-Course: "UofM Coding Bootcamp"  
+Author: Kyle Kleven   
+Course: UofM Coding Bootcamp    
 
 ### User Story
 AS A marketing agency
