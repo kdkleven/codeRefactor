@@ -1,13 +1,13 @@
 # uofm-bootcamp-homework-01
 
 ## The Repository
-This repository ("uofm-bootcamp-homework-01") is my first homework assignment: Code Refactor. This source code is available to everyone under the standard MIT license.
+This repository ("uofm-bootcamp-homework-01") contains my first homework assignment: Code Refactor.
 
 ## The Assignment
-Title: "Code Refactor"  
+Title: Code Refactor  
 Assignment: 1  
-Author: "Kyle Kleven"  
-Course: "UofM Coding Bootcamp"  
+Author: Kyle Kleven    
+Course: UofM Coding Boot Camp  
 
 ### The User Story
 AS A marketing agency
@@ -15,7 +15,6 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ### The Acceptance Criteria
-
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
