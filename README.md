@@ -4,10 +4,10 @@
 This repository ("uofm-bootcamp-homework-01") is my first homework assignment: Code Refactor. This source code is available to everyone under the standard MIT license.
 
 ## Assignment Details
-Title: "Code Refactor"  
+Title: Code Refactor  
 Assignment: 1  
-Author: "Kyle Kleven"  
-Course: "UofM Coding Bootcamp"  
+Author: Kyle Kleven   
+Course: UofM Coding Bootcamp    
 
 ## What's inside:
 The purpose of this assignment was to refactor the existing website for a marketing agency, named Horiseon, by completing the following:  
