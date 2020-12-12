@@ -1,14 +1,16 @@
 # uofm-bootcamp-homework-01
 
 ## The Repository
-This repository ("uofm-bootcamp-homework-01") contains my first homework assignment: Code Refactor.
+This repository ("uofm-bootcamp-homework-01") contains my first homework assignment.
 
 ## The Assignment
 Title: Code Refactor  
 Assignment: 1  
 Author: Kyle Kleven    
-Course: UofM Coding Boot Camp  
-Purpose: Refactor the Horiseon marketing agency's codebase to follow accessibility standards so that the site is optimized for search engines.  
+Course: UofM Coding Boot Camp 
+
+### The Purpose
+Refactor the Horiseon marketing agency's codebase to follow accessibility standards so that the site is optimized for search engines.  
 
 ### The Refactor
 * Use semantic HTML elements
