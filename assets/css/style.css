@@ -34,10 +34,11 @@ nav {
 }
 ul {
     list-style-type: none;
+    
 }
 li {
-    display: inline-block;
     margin-left: 25px;
+    display: inline-block;
 }
 
 /*Links*/
@@ -67,6 +68,11 @@ content {
     display: inline-block;
     margin-left: 20px;
 }
+/*Content heading*/
+content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 /*Content Sections*/
 content section {
     margin-bottom: 20px;
@@ -80,7 +86,7 @@ content section {
 content img {
     max-height: 200px;
 }
-/*Content section images*/
+/*Content image placement*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -88,11 +94,6 @@ content img {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-/*Content heading*/
-content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /*Aside*/
